@@ -6,6 +6,12 @@
 
 - Remove `tunnel` from SDK Options ([#3787](https://github.com/getsentry/sentry-react-native/pull/3787))
 
+### Dependencies
+
+- Bump JavaScript SDK from v7.110.1 to v7.114.0 ([#4](https://github.com/AliReza99/sentry-react-native/pull/4))
+  - [changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md#71140)
+  - [diff](https://github.com/getsentry/sentry-javascript/compare/7.110.1...7.114.0)
+
 ## 5.22.0
 
 ### Features
