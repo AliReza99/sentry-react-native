@@ -6,6 +6,12 @@
 
 - Remove `tunnel` from SDK Options ([#3787](https://github.com/getsentry/sentry-react-native/pull/3787))
 
+### Dependencies
+
+- Bump CLI from v2.30.4 to v2.32.1 ([#2](https://github.com/AliReza99/sentry-react-native/pull/2))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2321)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/2.30.4...2.32.1)
+
 ## 5.22.0
 
 ### Features
