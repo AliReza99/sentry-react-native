@@ -6,6 +6,12 @@
 
 - Remove `tunnel` from SDK Options ([#3787](https://github.com/getsentry/sentry-react-native/pull/3787))
 
+### Dependencies
+
+- Bump Android SDK from v7.8.0 to v7.11.0 ([#6](https://github.com/AliReza99/sentry-react-native/pull/6))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#7110)
+  - [diff](https://github.com/getsentry/sentry-java/compare/7.8.0...7.11.0)
+
 ## 5.22.0
 
 ### Features
